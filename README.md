@@ -1,7 +1,7 @@
 # telegram-bot-StableDiffusion-TextCortex
 
 # Настройка работы с нейронками (API-обработчик):
-1. Получение токенов для двух API([TextCortex](https://docs.textcortex.com/api), [StableDiffusion](https://platform.stability.ai/docs/api-reference)):
+1. Получение токенов для двух API([TextCortex](https://docs.textcortex.com/api) - перевод текста с русского на английский, [StableDiffusion](https://platform.stability.ai/docs/api-reference) - генерация картинок по текстовому запросу):
 Получение и сохранение токенов для работы с нейросетью-генератором изображений и сервисом перевода текста.
 2. Хранение/считывание в конфиг-файлах:
 Реализация механизма для хранения и чтения токенов из конфигурационных файлов.
