@@ -1,4 +1,4 @@
-# telegram-bot-StableDiffusion
+# telegram-bot-StableDiffusion-TextCortex
 
 # Настройка работы с нейронками (API-обработчик):
 1. Получение токенов для двух API([TextCortex](https://docs.textcortex.com/api), [StableDiffusion](https://platform.stability.ai/docs/api-reference)):
